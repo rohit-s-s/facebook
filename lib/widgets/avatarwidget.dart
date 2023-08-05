@@ -35,6 +35,7 @@ class AvatarWidget extends StatelessWidget {
                 displayimage,
                 height: height,
                 width: width,
+                fit: BoxFit.cover,
               ),
             ),
             displaystatus ? statusIndicator() : SizedBox()

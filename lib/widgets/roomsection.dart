@@ -54,23 +54,15 @@ class RoomsectionWidget extends StatelessWidget {
             displaystatus: true,
           ),
           AvatarWidget(
-            displayimage: haile,
+            displayimage: image7,
             displaystatus: true,
           ),
           AvatarWidget(
-            displayimage: emma,
+            displayimage: image8,
             displaystatus: true,
           ),
           AvatarWidget(
-            displayimage: paxton,
-            displaystatus: true,
-          ),
-          AvatarWidget(
-            displayimage: oslen,
-            displaystatus: true,
-          ),
-          AvatarWidget(
-            displayimage: alba,
+            displayimage: image9,
             displaystatus: true,
           ),
         ],
