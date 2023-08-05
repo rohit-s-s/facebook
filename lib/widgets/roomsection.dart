@@ -30,27 +30,27 @@ class RoomsectionWidget extends StatelessWidget {
                 label: Text("Create \nRoom")),
           ),
           AvatarWidget(
-            displayimage: ariana,
+            displayimage: image1,
             displaystatus: true,
           ),
           AvatarWidget(
-            displayimage: haile,
+            displayimage: image2,
             displaystatus: true,
           ),
           AvatarWidget(
-            displayimage: emma,
+            displayimage: image3,
             displaystatus: true,
           ),
           AvatarWidget(
-            displayimage: paxton,
+            displayimage: image4,
             displaystatus: true,
           ),
           AvatarWidget(
-            displayimage: oslen,
+            displayimage: image5,
             displaystatus: true,
           ),
           AvatarWidget(
-            displayimage: alba,
+            displayimage: image6,
             displaystatus: true,
           ),
           AvatarWidget(

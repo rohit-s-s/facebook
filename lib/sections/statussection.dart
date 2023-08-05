@@ -11,7 +11,7 @@ class StatusSection extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ListTile(
-      leading: AvatarWidget(displayimage: ariana,),
+      leading: AvatarWidget(displayimage: image1,),
       title: TextField(
         decoration: InputDecoration(
           enabledBorder: InputBorder.none,
